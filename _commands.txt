@@ -1,0 +1,4 @@
+# exec commands
+:!python3.11 %
+:w !python3.11
+:QuickRun
